@@ -12,7 +12,7 @@
  - Local Storage
  - Task Colors 
  - Task Time
- - Manage Tasks
+ - Manage Tasks (add, delete, drag, search ...)
 
 ## Project setup
 ```

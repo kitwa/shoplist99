@@ -57,9 +57,9 @@
           <Search />
         </v-row>
         <v-row>
-          <v-app-bar-title class="ml-4 text-h5">
+          <p class="ml-4 text-h5">
             {{ $store.state.appTitle }}
-          </v-app-bar-title>
+          </p>
         </v-row>
         <v-row>
           <LiveDateTime/>
