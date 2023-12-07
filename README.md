@@ -1,16 +1,18 @@
-# ShopList99
+# ShopList99   
+
+### Shop with Confidence
 
 [Visit Website](https://shoplist99.kibokodigital.com/)
 ## Features
 
- - Cross platform
+ - Cross Platform
  - Responsive
- - Custom shoplist or todo list
+ - Custom Shoplist or Todo List
  - Drag and Drop
  - Local Storage
  - Task Colors 
  - Task Time
- - manage tasks
+ - Manage Tasks
 
 ## Project setup
 ```
