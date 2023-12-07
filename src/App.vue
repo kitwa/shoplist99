@@ -16,7 +16,7 @@
         alt="ShopList"
       >
     </v-avatar>
-    <div class="white--text text-subtitle-1 font-weight-bold">Shop List</div>
+    <div class="white--text text-subtitle-1 font-weight-bold">Shop List 99</div>
     <!-- <div class="white--text text-subtitle-2">Kitwa</div> -->
       </v-img>
 
