@@ -1,6 +1,6 @@
 # ShopList99
 
-[![Visit Website](https://shoplist99.kibokodigital.com/)]
+[[Visit Website](https://shoplist99.kibokodigital.com/)]
 ## Features
 
  - Cross platform
@@ -33,4 +33,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Share
 
-[![LinkedIn](https://www.linkedin.com/in/dominique-kiboko-91b46b98/)
+[[LinkedIn](https://www.linkedin.com/in/dominique-kiboko-91b46b98/)
